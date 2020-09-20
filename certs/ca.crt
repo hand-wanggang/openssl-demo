@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=beijing, O=Global Google CA Inc, OU=Root CA, CN=Global Google Root CA
+        Validity
+            Not Before: Sep 20 15:24:03 2020 GMT
+            Not After : Sep 20 15:24:03 2021 GMT
+        Subject: C=CN, ST=beijing, O=Global Google CA Inc, OU=Root CA, CN=Global Google Root CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:97:c4:78:5b:60:2a:66:fd:4c:0d:9c:08:77:4b:
+                    74:cc:7a:88:97:d7:68:df:40:ee:81:7c:91:19:01:
+                    b1:0b:f4:59:b8:10:9f:93:b7:20:8e:47:96:b0:55:
+                    e3:2d:9d:55:7c:9f:7b:44:44:d3:7d:0b:6e:f0:c1:
+                    c1:d5:22:00:3d:4b:00:19:0b:e4:4c:64:04:ed:14:
+                    d9:91:5f:3e:15:17:80:37:73:2f:e7:bd:21:53:33:
+                    bc:f0:a2:a3:07:3a:04:55:1b:17:5e:52:81:28:67:
+                    0b:fd:99:92:96:37:99:60:d1:34:6a:af:cd:f8:2b:
+                    9e:0f:6e:f4:c8:7b:73:6d:7a:0c:b9:14:fd:41:b9:
+                    75:3a:08:5a:6f:56:ba:22:42:70:3c:2c:37:b1:63:
+                    e1:71:57:d5:46:c0:72:9d:95:98:32:8f:4d:02:69:
+                    b1:c6:10:ea:47:07:8a:29:48:fe:8f:86:01:11:f4:
+                    00:85:36:09:8e:7e:d9:8d:11:74:83:f6:6e:3e:04:
+                    16:30:73:60:d2:af:f1:71:d4:7c:67:09:15:c4:de:
+                    ff:50:2b:40:c0:9c:a0:04:05:62:a6:7e:c7:28:a6:
+                    2d:b9:46:fe:25:0a:be:78:21:74:4f:af:bc:ca:c2:
+                    bf:88:20:fe:93:b1:0c:4b:fe:19:1d:e4:9d:a8:c1:
+                    c8:cb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+         53:77:fd:69:2d:fb:9c:ac:27:9f:6e:e0:80:45:8c:06:bd:ef:
+         ff:ea:d9:56:b1:58:22:25:66:e3:ef:3b:8c:28:15:b1:db:ec:
+         29:47:86:25:16:9e:1b:6e:25:0c:c1:30:ea:79:89:87:7b:b4:
+         8a:74:79:55:ee:5d:3a:a9:40:1f:03:b7:35:ed:e7:1d:b6:3c:
+         71:e9:98:45:d6:98:e8:d5:50:ae:a1:58:58:bc:5c:1f:9d:49:
+         e0:ae:7b:4d:a7:ff:16:78:1d:0c:15:a7:ae:96:3c:78:a0:aa:
+         59:36:02:db:b4:11:fb:eb:11:fc:45:17:22:66:f2:44:47:c3:
+         6d:0b:fc:8b:85:60:66:20:7a:00:f9:6a:ba:56:8e:18:61:68:
+         39:0c:48:f9:4e:c2:0c:f5:af:bb:f8:b0:c0:4a:09:07:f2:83:
+         80:7a:dd:65:ae:16:53:de:d0:cd:c3:30:1d:24:a3:b3:eb:9b:
+         79:1a:c4:97:e2:28:8c:b3:62:3e:bd:f0:da:d8:3c:40:aa:71:
+         62:d3:09:bd:72:1d:d4:12:04:27:9f:54:b6:1f:87:b4:c3:dc:
+         80:c4:1b:f2:d7:c5:d1:f6:d6:d8:79:8a:20:83:4d:a1:d2:df:
+         c8:f8:e3:9b:61:70:f7:2c:8b:64:b7:58:b4:ab:6f:89:25:e8:
+         1f:ac:4e:09
+-----BEGIN CERTIFICATE-----
+MIIDazCCAlOgAwIBAgIBATANBgkqhkiG9w0BAQsFADBwMQswCQYDVQQGEwJDTjEQ
+MA4GA1UECAwHYmVpamluZzEdMBsGA1UECgwUR2xvYmFsIEdvb2dsZSBDQSBJbmMx
+EDAOBgNVBAsMB1Jvb3QgQ0ExHjAcBgNVBAMMFUdsb2JhbCBHb29nbGUgUm9vdCBD
+QTAeFw0yMDA5MjAxNTI0MDNaFw0yMTA5MjAxNTI0MDNaMHAxCzAJBgNVBAYTAkNO
+MRAwDgYDVQQIDAdiZWlqaW5nMR0wGwYDVQQKDBRHbG9iYWwgR29vZ2xlIENBIElu
+YzEQMA4GA1UECwwHUm9vdCBDQTEeMBwGA1UEAwwVR2xvYmFsIEdvb2dsZSBSb290
+IENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl8R4W2AqZv1MDZwI
+d0t0zHqIl9do30DugXyRGQGxC/RZuBCfk7cgjkeWsFXjLZ1VfJ97RETTfQtu8MHB
+1SIAPUsAGQvkTGQE7RTZkV8+FReAN3Mv570hUzO88KKjBzoEVRsXXlKBKGcL/ZmS
+ljeZYNE0aq/N+CueD270yHtzbXoMuRT9Qbl1Oghab1a6IkJwPCw3sWPhcVfVRsBy
+nZWYMo9NAmmxxhDqRweKKUj+j4YBEfQAhTYJjn7ZjRF0g/ZuPgQWMHNg0q/xcdR8
+ZwkVxN7/UCtAwJygBAVipn7HKKYtuUb+JQq+eCF0T6+8ysK/iCD+k7EMS/4ZHeSd
+qMHIywIDAQABoxAwDjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBT
+d/1pLfucrCefbuCARYwGve//6tlWsVgiJWbj7zuMKBWx2+wpR4YlFp4bbiUMwTDq
+eYmHe7SKdHlV7l06qUAfA7c17ecdtjxx6ZhF1pjo1VCuoVhYvFwfnUngrntNp/8W
+eB0MFaeuljx4oKpZNgLbtBH76xH8RRciZvJER8NtC/yLhWBmIHoA+Wq6Vo4YYWg5
+DEj5TsIM9a+7+LDASgkH8oOAet1lrhZT3tDNwzAdJKOz65t5GsSX4iiMs2I+vfDa
+2DxAqnFi0wm9ch3UEgQnn1S2H4e0w9yAxBvy18XR9tbYeYogg02h0t/I+OObYXD3
+LItkt1i0q2+JJegfrE4J
+-----END CERTIFICATE-----
